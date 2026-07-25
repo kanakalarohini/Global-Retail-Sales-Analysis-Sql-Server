@@ -1,3 +1,6 @@
+
+<img width="1400" height="933" alt="retail" src="https://github.com/user-attachments/assets/8b65a586-b89e-4954-8f29-356be2c8cd3b" />
+
 # Global Retail Sales Analysis using SQL Server
 
 ##  Project Overview
